@@ -6,19 +6,19 @@
 <br/>
   
 
-- A people's person and a tech lover. Autodidact, ambitious, and a team player!  
+- A people's person and a tech lover. Autodidact, ambitious, and a team player!
   
 
-- Proficient in building single-page apps.  
+- Proficient in building single-page applications using the advanced web technologies.
   
 
-- High self-disciplined with a constant drive for professional excellence.  
+- High self-disciplined with a constant drive for professional excellence.
   
 
-- I recently built a clone of Wix using React, Redux, Node.js, MongoDB! [check it out here](https://wixy.onrender.com)  
+- I recently built a clone of Wix using React, Redux, Node.js, MongoDB! [check it out here](https://wixy.onrender.com)
   
 
-- You can reach me at vickymenashe@gmail.com  
+- You can reach me at vickymenashe@gmail.com
   
 
 <br/>  
@@ -49,5 +49,3 @@
 <a href="https://linkedin.com/in/vicky-polatov" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-
-<br />
