@@ -18,7 +18,7 @@
 - I recently built a clone of Wix using React, Redux, Node.js, MongoDB! [check it out here](https://wixy.onrender.com)
   
 
-- You can reach me at vickymenashe@gmail.com
+- You can reach me at vickypolatov.dev@gmail.com
   
 
 <br/>  
